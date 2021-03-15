@@ -1,5 +1,9 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: alesdonoso/alesdonoso
+  branch: main
+
+site_url: https://alesdonoso.com
 
 local_backend: true # Optional if you want to use the local proxy mode
 
